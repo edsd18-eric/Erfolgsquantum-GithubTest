@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
  */
 public class Cat {
 	/**
-	 * 
+	 * Hier ihrer eigne Kommentar
 	 * @param x 
 	 * @param y 
 	 * @return
